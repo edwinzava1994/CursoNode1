@@ -1,0 +1,2 @@
+El nombre del estudiante es: Edwin
+ha obtenido un promedio de: 4
